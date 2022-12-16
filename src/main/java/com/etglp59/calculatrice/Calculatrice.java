@@ -16,7 +16,6 @@ public class Calculatrice {
 	private JTextField ecran;
 	private Double nombre;
 	private String operations;
-	private String format;
 
 	/**
 	 * Launch the application.
